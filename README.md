@@ -11,15 +11,12 @@
 
 ## 文档目录
 
-### Codex 使用指南
+### 1. 准备工作
 
 - [通过 CC Switch 将 DeepSeek 等模型接入 Codex](./codex-cc-switch-deepseek.md)
-
-### Google 账号与地区指南
-
 - [注册美区和土区 Google 邮箱的合规指南](./google-account-us-tr-region.md)
 
-### Claude Code Skills 指南
+### 2. Claude Code Skills
 
 - [Claude Code 必装 Skills：安装与使用指南](./claude-code-skills-install-use.md)
 
