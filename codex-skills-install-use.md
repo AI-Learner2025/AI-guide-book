@@ -4,6 +4,15 @@
 
 这篇文章和 Claude Code Skills 教程不同：Claude Code 使用的是 Claude 生态的 Skill 机制，而 Codex 使用 OpenAI Codex 的 Skills 与 Plugins 体系。两者概念相似，但目录位置、调用方式和插件生态并不完全一样。
 
+## 快速入口
+
+- OpenAI 官方 Skills 仓库：https://github.com/openai/skills
+- Codex Agent Skills 文档：https://developers.openai.com/codex/skills
+- Codex Plugins 文档：https://developers.openai.com/codex/plugins
+- Agent Skills 标准：https://agentskills.io/specification
+
+如果你只是想快速找可用的 Codex Skills，先打开 `https://github.com/openai/skills`。这个仓库是 OpenAI 官方 Skills 示例和可复用技能入口，适合直接查看、复制、改造或通过安装器安装。
+
 ## 一、Codex Skills 是什么
 
 Codex Skills 是一组可复用的任务工作流。

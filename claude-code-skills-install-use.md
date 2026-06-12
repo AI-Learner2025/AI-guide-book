@@ -4,6 +4,14 @@
 
 这篇文章和前面的 Codex 模型接入教程不同：这里不讲第三方模型，也不讲账号地区，而是专注于 Claude Code 的工作流增强。
 
+## 快速入口
+
+- Anthropic 官方 Skills 仓库：https://github.com/anthropics/skills
+- Anthropic Agent Skills 介绍：https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills
+- Claude Code Skills 文档：https://code.claude.com/docs/en/skills
+
+如果你只是想先看看有哪些现成 Skills，可以优先打开 `https://github.com/anthropics/skills`。这个仓库里包含 Anthropic 官方维护的示例和文档处理类 Skills，适合快速学习目录结构和安装方式。
+
 ## 一、Skills 是什么
 
 Skills 可以理解成 Claude Code 的「可复用工作方法包」。
