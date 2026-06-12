@@ -20,4 +20,8 @@
 
 - [Claude Code 必装 Skills：安装与使用指南](./claude-code-skills-install-use.md)
 
+### 3. Codex Skills
+
+- [Codex 必装 Skills：安装与使用指南](./codex-skills-install-use.md)
+
 希望这个项目能成为一份简单易读、持续更新的 AI 工具使用手册，帮助更多人真正把 AI 融入日常工作与学习。
