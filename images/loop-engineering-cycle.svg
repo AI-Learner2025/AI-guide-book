@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Loop Engineering cycle</title>
+  <desc id="desc">A circular workflow diagram for loop engineering: define, generate, verify, feedback, refine, and ship.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="48%" stop-color="#10202c"/>
+      <stop offset="100%" stop-color="#23152c"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000000" flood-opacity="0.36"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#67e8f9"/>
+    </marker>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="54" y="46" width="1172" height="628" rx="30" fill="#0f172a" opacity="0.86" stroke="#32455f" stroke-width="2"/>
+  <text x="96" y="112" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">Loop Engineering</text>
+  <text x="96" y="154" fill="#a8b6ca" font-family="Inter, Arial, sans-serif" font-size="21">不要追求一次生成完美答案，而是设计一个能自动变好的循环。</text>
+
+  <circle cx="640" cy="374" r="154" fill="#101827" stroke="#2f425e" stroke-width="2"/>
+  <circle cx="640" cy="374" r="92" fill="#111f2c" stroke="#3a536f" stroke-width="2"/>
+  <text x="590" y="360" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800">Loop</text>
+  <text x="560" y="397" fill="#a8b6ca" font-family="Inter, Arial, sans-serif" font-size="18">generate · verify · refine</text>
+
+  <g filter="url(#shadow)" font-family="Inter, Arial, sans-serif">
+    <rect x="522" y="190" width="236" height="72" rx="18" fill="#172033" stroke="#60a5fa"/>
+    <text x="574" y="235" fill="#f8fafc" font-size="23" font-weight="800">1. 定义目标</text>
+
+    <rect x="816" y="302" width="236" height="72" rx="18" fill="#231d34" stroke="#a78bfa"/>
+    <text x="868" y="347" fill="#f8fafc" font-size="23" font-weight="800">2. 生成产物</text>
+
+    <rect x="704" y="530" width="236" height="72" rx="18" fill="#172a2d" stroke="#22d3ee"/>
+    <text x="756" y="575" fill="#f8fafc" font-size="23" font-weight="800">3. 验证结果</text>
+
+    <rect x="340" y="530" width="236" height="72" rx="18" fill="#372516" stroke="#f59e0b"/>
+    <text x="392" y="575" fill="#f8fafc" font-size="23" font-weight="800">4. 反馈差距</text>
+
+    <rect x="228" y="302" width="236" height="72" rx="18" fill="#17291f" stroke="#4ade80"/>
+    <text x="280" y="347" fill="#f8fafc" font-size="23" font-weight="800">5. 迭代修正</text>
+  </g>
+
+  <path d="M730 264 C780 280 812 300 832 318" fill="none" stroke="#67e8f9" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M940 380 C930 454 894 508 850 534" fill="none" stroke="#67e8f9" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M704 566 C650 584 604 584 564 570" fill="none" stroke="#67e8f9" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M408 530 C360 480 342 432 346 374" fill="none" stroke="#67e8f9" stroke-width="4" marker-end="url(#arrow)"/>
+  <path d="M396 302 C438 246 484 222 522 218" fill="none" stroke="#67e8f9" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <rect x="96" y="606" width="1088" height="42" rx="13" fill="#111827" stroke="#32455f"/>
+  <text x="126" y="633" fill="#94a3b8" font-family="Inter, Arial, sans-serif" font-size="18">核心公式：Prompt 不是终点，验证结果才是下一轮 Prompt 的起点。</text>
+</svg>
