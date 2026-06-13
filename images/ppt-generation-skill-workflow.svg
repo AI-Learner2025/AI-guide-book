@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">PPT generation skill workflow</title>
+  <desc id="desc">A workflow diagram showing how a PPT generation skill turns a brief, sources, template, and assets into an editable PowerPoint deck.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="52%" stop-color="#192335"/>
+      <stop offset="100%" stop-color="#28172b"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#000000" flood-opacity="0.36"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#93c5fd"/>
+    </marker>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="56" y="48" width="1168" height="624" rx="30" fill="#101827" opacity="0.86" stroke="#344760" stroke-width="2"/>
+  <text x="96" y="112" fill="#f8fafc" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800">PPT 生成 Skill</text>
+  <text x="96" y="152" fill="#a9b8ce" font-family="Inter, Arial, sans-serif" font-size="21">把主题、资料、模板和品牌规范转成可编辑的 PowerPoint 成品。</text>
+
+  <g filter="url(#shadow)" font-family="Inter, Arial, sans-serif">
+    <rect x="96" y="230" width="170" height="140" rx="20" fill="#172033" stroke="#60a5fa"/>
+    <text x="128" y="278" fill="#f8fafc" font-size="24" font-weight="800">Brief</text>
+    <text x="128" y="316" fill="#b7c9e6" font-size="17">主题</text>
+    <text x="128" y="342" fill="#b7c9e6" font-size="17">受众</text>
+
+    <rect x="322" y="230" width="170" height="140" rx="20" fill="#17291f" stroke="#4ade80"/>
+    <text x="354" y="278" fill="#f8fafc" font-size="24" font-weight="800">Sources</text>
+    <text x="354" y="316" fill="#bde7c9" font-size="17">文档</text>
+    <text x="354" y="342" fill="#bde7c9" font-size="17">数据</text>
+
+    <rect x="548" y="230" width="170" height="140" rx="20" fill="#2c2037" stroke="#c084fc"/>
+    <text x="580" y="278" fill="#f8fafc" font-size="24" font-weight="800">Skill</text>
+    <text x="580" y="316" fill="#dec9f4" font-size="17">结构</text>
+    <text x="580" y="342" fill="#dec9f4" font-size="17">版式</text>
+
+    <rect x="774" y="230" width="170" height="140" rx="20" fill="#372516" stroke="#f59e0b"/>
+    <text x="806" y="278" fill="#f8fafc" font-size="24" font-weight="800">Preview</text>
+    <text x="806" y="316" fill="#ead2ae" font-size="17">缩略图</text>
+    <text x="806" y="342" fill="#ead2ae" font-size="17">QA</text>
+
+    <rect x="1000" y="230" width="170" height="140" rx="20" fill="#172a2d" stroke="#22d3ee"/>
+    <text x="1032" y="278" fill="#f8fafc" font-size="24" font-weight="800">PPTX</text>
+    <text x="1032" y="316" fill="#b9edf3" font-size="17">可编辑</text>
+    <text x="1032" y="342" fill="#b9edf3" font-size="17">可交付</text>
+  </g>
+
+  <line x1="276" y1="300" x2="312" y2="300" stroke="#93c5fd" stroke-width="4" marker-end="url(#arrow)"/>
+  <line x1="502" y1="300" x2="538" y2="300" stroke="#93c5fd" stroke-width="4" marker-end="url(#arrow)"/>
+  <line x1="728" y1="300" x2="764" y2="300" stroke="#93c5fd" stroke-width="4" marker-end="url(#arrow)"/>
+  <line x1="954" y1="300" x2="990" y2="300" stroke="#93c5fd" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)" font-family="Inter, Arial, sans-serif">
+    <rect x="178" y="452" width="924" height="118" rx="22" fill="#0b1220" stroke="#344760"/>
+    <rect x="214" y="486" width="140" height="58" rx="10" fill="#1d4ed8"/>
+    <rect x="386" y="486" width="140" height="58" rx="10" fill="#16a34a"/>
+    <rect x="558" y="486" width="140" height="58" rx="10" fill="#9333ea"/>
+    <rect x="730" y="486" width="140" height="58" rx="10" fill="#d97706"/>
+    <rect x="902" y="486" width="140" height="58" rx="10" fill="#0891b2"/>
+    <text x="230" y="522" fill="#f8fafc" font-size="18" font-weight="800">封面</text>
+    <text x="402" y="522" fill="#f8fafc" font-size="18" font-weight="800">目录</text>
+    <text x="574" y="522" fill="#f8fafc" font-size="18" font-weight="800">证据</text>
+    <text x="746" y="522" fill="#f8fafc" font-size="18" font-weight="800">图表</text>
+    <text x="918" y="522" fill="#f8fafc" font-size="18" font-weight="800">结论</text>
+  </g>
+
+  <text x="96" y="638" fill="#94a3b8" font-family="Inter, Arial, sans-serif" font-size="18">核心：先整理故事线，再生成页面，最后通过缩略图和可编辑性检查交付 PPTX。</text>
+</svg>

@@ -20,6 +20,7 @@
 
 - [Claude Code 必装 Skills：安装与使用指南](./claude-code-skills-install-use.md)
 - [Codex 必装 Skills：安装与使用指南](./codex-skills-install-use.md)
+- [生成 PPT 的 Skill：用 AI 做出可编辑的 PowerPoint](./ppt-generation-skill-guide.md)
 
 ### 3. 视频生成
 
