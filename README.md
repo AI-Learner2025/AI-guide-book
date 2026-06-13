@@ -37,4 +37,8 @@
 
 - [用 Codex 多 Session 开发 App：把多个会话当成不同 Agent 来协作](./codex-multi-session-app-development-guide.md)
 
+### 6. 图片生成
+
+- [教程海报生成工作流：批量生成 AI 工具教程图片](./tutorial-poster-generation-workflow.md)
+
 希望这个项目能成为一份简单易读、持续更新的 AI 工具使用手册，帮助更多人真正把 AI 融入日常工作与学习。

@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1536" viewBox="0 0 1024 1536" role="img" aria-labelledby="title desc">
+  <title id="title">在 Codex 中安装 Remotion</title>
+  <desc id="desc">A Chinese tutorial poster preview showing how to install Remotion in Codex.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="55%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <filter id="shadow" x="-16%" y="-16%" width="132%" height="132%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#1f2a44" flood-opacity="0.14"/>
+    </filter>
+    <filter id="cardShadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#4f46e5" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="1536" fill="#fbfcff"/>
+  <g opacity="0.9">
+    <circle cx="872" cy="96" r="2" fill="#c7d2fe"/><circle cx="908" cy="96" r="2" fill="#c7d2fe"/><circle cx="944" cy="96" r="2" fill="#c7d2fe"/>
+    <circle cx="872" cy="132" r="2" fill="#c7d2fe"/><circle cx="908" cy="132" r="2" fill="#c7d2fe"/><circle cx="944" cy="132" r="2" fill="#c7d2fe"/>
+    <circle cx="872" cy="168" r="2" fill="#c7d2fe"/><circle cx="908" cy="168" r="2" fill="#c7d2fe"/><circle cx="944" cy="168" r="2" fill="#c7d2fe"/>
+  </g>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="96" y="76" fill="#111827" font-size="30" font-weight="800">Codex</text>
+    <rect x="48" y="39" width="34" height="34" rx="8" fill="none" stroke="#111827" stroke-width="4"/>
+    <path d="M48 56 L65 45 L82 56 L65 67 Z" fill="none" stroke="#111827" stroke-width="4" stroke-linejoin="round"/>
+
+    <text x="40" y="160" fill="#0b1020" font-size="58" font-weight="900">在 Codex 中安装</text>
+    <text x="40" y="244" fill="url(#accent)" font-size="78" font-weight="900">Remotion</text>
+    <text x="40" y="301" fill="#4b5563" font-size="24" font-weight="500">用 React 生成可编程视频，从预览到渲染一步完成</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="690" y="58" width="252" height="226" rx="30" fill="#ffffff" stroke="#ddd6fe" stroke-width="1.5" transform="rotate(5 816 171)"/>
+    <text x="754" y="166" fill="url(#accent)" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="900" transform="rotate(5 816 171)">R</text>
+    <text x="722" y="230" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" transform="rotate(5 816 171)">Remotion</text>
+  </g>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <g filter="url(#cardShadow)">
+      <rect x="26" y="340" width="972" height="178" rx="20" fill="#ffffff" stroke="#e5e7eb"/>
+      <rect x="50" y="362" width="58" height="46" rx="10" fill="url(#accent)"/>
+      <text x="64" y="395" fill="#ffffff" font-size="28" font-weight="900">01</text>
+      <text x="132" y="394" fill="#111827" font-size="28" font-weight="850">打开 Codex 终端</text>
+      <text x="132" y="438" fill="#374151" font-size="20">在 Codex 中打开终端，准备</text>
+      <text x="132" y="466" fill="#374151" font-size="20">执行项目初始化命令。</text>
+      <rect x="412" y="364" width="556" height="132" rx="12" fill="#fbfcff" stroke="#e5e7eb"/>
+      <rect x="412" y="364" width="556" height="44" rx="12" fill="#f8fafc" stroke="#e5e7eb"/>
+      <circle cx="438" cy="386" r="6" fill="#ef4444"/><circle cx="459" cy="386" r="6" fill="#f59e0b"/><circle cx="480" cy="386" r="6" fill="#22c55e"/>
+      <text x="508" y="393" fill="#64748b" font-size="17">Codex Terminal</text>
+      <text x="438" y="454" fill="#111827" font-family="JetBrains Mono, Menlo, monospace" font-size="24">$</text>
+    </g>
+
+    <g filter="url(#cardShadow)">
+      <rect x="26" y="536" width="972" height="178" rx="20" fill="#ffffff" stroke="#e5e7eb"/>
+      <rect x="50" y="558" width="58" height="46" rx="10" fill="url(#accent)"/>
+      <text x="64" y="591" fill="#ffffff" font-size="28" font-weight="900">02</text>
+      <text x="132" y="590" fill="#111827" font-size="28" font-weight="850">创建视频项目</text>
+      <text x="132" y="634" fill="#374151" font-size="20">使用官方脚手架创建一个</text>
+      <text x="132" y="662" fill="#374151" font-size="20">空白 Remotion 项目。</text>
+      <rect x="412" y="560" width="556" height="132" rx="12" fill="#fbfcff" stroke="#e5e7eb"/>
+      <rect x="412" y="560" width="556" height="44" rx="12" fill="#f8fafc" stroke="#e5e7eb"/>
+      <circle cx="438" cy="582" r="6" fill="#ef4444"/><circle cx="459" cy="582" r="6" fill="#f59e0b"/><circle cx="480" cy="582" r="6" fill="#22c55e"/>
+      <text x="508" y="589" fill="#64748b" font-size="17">Codex Terminal</text>
+      <text x="438" y="650" fill="#111827" font-family="JetBrains Mono, Menlo, monospace" font-size="22">$ npx create-video@latest my-video</text>
+    </g>
+
+    <g filter="url(#cardShadow)">
+      <rect x="26" y="732" width="972" height="178" rx="20" fill="#ffffff" stroke="#e5e7eb"/>
+      <rect x="50" y="754" width="58" height="46" rx="10" fill="url(#accent)"/>
+      <text x="64" y="787" fill="#ffffff" font-size="28" font-weight="900">03</text>
+      <text x="132" y="786" fill="#111827" font-size="28" font-weight="850">安装依赖</text>
+      <text x="132" y="830" fill="#374151" font-size="20">进入项目目录，并安装</text>
+      <text x="132" y="858" fill="#374151" font-size="20">需要的 npm 依赖。</text>
+      <rect x="412" y="756" width="556" height="132" rx="12" fill="#fbfcff" stroke="#e5e7eb"/>
+      <rect x="412" y="756" width="556" height="44" rx="12" fill="#f8fafc" stroke="#e5e7eb"/>
+      <circle cx="438" cy="778" r="6" fill="#ef4444"/><circle cx="459" cy="778" r="6" fill="#f59e0b"/><circle cx="480" cy="778" r="6" fill="#22c55e"/>
+      <text x="508" y="785" fill="#64748b" font-size="17">Codex Terminal</text>
+      <text x="438" y="846" fill="#111827" font-family="JetBrains Mono, Menlo, monospace" font-size="23">$ cd my-video &amp;&amp; npm install</text>
+    </g>
+
+    <g filter="url(#cardShadow)">
+      <rect x="26" y="928" width="972" height="178" rx="20" fill="#ffffff" stroke="#e5e7eb"/>
+      <rect x="50" y="950" width="58" height="46" rx="10" fill="url(#accent)"/>
+      <text x="64" y="983" fill="#ffffff" font-size="28" font-weight="900">04</text>
+      <text x="132" y="982" fill="#111827" font-size="28" font-weight="850">启动 Studio</text>
+      <text x="132" y="1026" fill="#374151" font-size="20">打开 Remotion Studio，逐帧</text>
+      <text x="132" y="1054" fill="#374151" font-size="20">预览 composition。</text>
+      <rect x="412" y="952" width="556" height="132" rx="12" fill="#fbfcff" stroke="#e5e7eb"/>
+      <rect x="412" y="952" width="556" height="44" rx="12" fill="#f8fafc" stroke="#e5e7eb"/>
+      <circle cx="438" cy="974" r="6" fill="#ef4444"/><circle cx="459" cy="974" r="6" fill="#f59e0b"/><circle cx="480" cy="974" r="6" fill="#22c55e"/>
+      <text x="508" y="981" fill="#64748b" font-size="17">Codex Terminal</text>
+      <text x="438" y="1042" fill="#111827" font-family="JetBrains Mono, Menlo, monospace" font-size="24">$ npx remotion studio</text>
+    </g>
+
+    <g filter="url(#cardShadow)">
+      <rect x="26" y="1124" width="972" height="178" rx="20" fill="#ffffff" stroke="#e5e7eb"/>
+      <rect x="50" y="1146" width="58" height="46" rx="10" fill="url(#accent)"/>
+      <text x="64" y="1179" fill="#ffffff" font-size="28" font-weight="900">05</text>
+      <text x="132" y="1178" fill="#111827" font-size="28" font-weight="850">渲染视频</text>
+      <text x="132" y="1222" fill="#374151" font-size="20">确认效果后导出最终</text>
+      <text x="132" y="1250" fill="#374151" font-size="20">MP4 文件。</text>
+      <rect x="412" y="1148" width="556" height="132" rx="12" fill="#fbfcff" stroke="#e5e7eb"/>
+      <rect x="412" y="1148" width="556" height="44" rx="12" fill="#f8fafc" stroke="#e5e7eb"/>
+      <circle cx="438" cy="1170" r="6" fill="#ef4444"/><circle cx="459" cy="1170" r="6" fill="#f59e0b"/><circle cx="480" cy="1170" r="6" fill="#22c55e"/>
+      <text x="508" y="1177" fill="#64748b" font-size="17">Codex Terminal</text>
+      <text x="438" y="1238" fill="#111827" font-family="JetBrains Mono, Menlo, monospace" font-size="24">$ npx remotion render Product out.mp4</text>
+    </g>
+
+    <rect x="26" y="1322" width="972" height="102" rx="18" fill="#ffffff" stroke="#ddd6fe"/>
+    <text x="116" y="1365" fill="url(#accent)" font-size="27" font-weight="900">下一步</text>
+    <text x="116" y="1396" fill="#374151" font-size="19">让 Codex 生成 composition，并先渲染 still 检查布局。</text>
+    <text x="516" y="1362" fill="#111827" font-size="20" font-weight="800">文档：https://www.remotion.dev/docs</text>
+    <text x="516" y="1396" fill="#111827" font-size="20" font-weight="800">GitHub：github.com/remotion-dev/remotion</text>
+
+    <rect x="26" y="1440" width="972" height="56" rx="18" fill="#f5f3ff" stroke="#ddd6fe"/>
+    <text x="58" y="1476" fill="#4f46e5" font-size="22" font-weight="900">提示：</text>
+    <text x="122" y="1476" fill="#111827" font-size="20">先渲染 still，再输出完整 MP4，排版更稳。</text>
+  </g>
+</svg>
