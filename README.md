@@ -33,4 +33,8 @@
 - [AI 工具工作流：从一次性提问到可复用生产流程](./ai-tool-workflow-guide.md)
 - [Loop Engineering：让 AI 产出持续变好的循环工程](./loop-engineering-guide.md)
 
+### 5. App 开发
+
+- [用 Codex 多 Session 开发 App：把多个会话当成不同 Agent 来协作](./codex-multi-session-app-development-guide.md)
+
 希望这个项目能成为一份简单易读、持续更新的 AI 工具使用手册，帮助更多人真正把 AI 融入日常工作与学习。
