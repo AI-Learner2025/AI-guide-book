@@ -26,4 +26,8 @@
 - [使用 Codex + HyperFrames 制作视频：从提示词到 MP4](./codex-hyperframes-video-guide.md)
 - [Codex 集成 Remotion 能做什么：用 React 生成自动化视频](./codex-remotion-video-guide.md)
 
+### 4. 工作流
+
+- [AI 工具工作流：从一次性提问到可复用生产流程](./ai-tool-workflow-guide.md)
+
 希望这个项目能成为一份简单易读、持续更新的 AI 工具使用手册，帮助更多人真正把 AI 融入日常工作与学习。
