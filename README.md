@@ -21,4 +21,8 @@
 - [Claude Code 必装 Skills：安装与使用指南](./claude-code-skills-install-use.md)
 - [Codex 必装 Skills：安装与使用指南](./codex-skills-install-use.md)
 
+### 3. 视频生成
+
+- [使用 Codex + HyperFrames 制作视频：从提示词到 MP4](./codex-hyperframes-video-guide.md)
+
 希望这个项目能成为一份简单易读、持续更新的 AI 工具使用手册，帮助更多人真正把 AI 融入日常工作与学习。
