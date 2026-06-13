@@ -26,6 +26,7 @@
 
 - [使用 Codex + HyperFrames 制作视频：从提示词到 MP4](./codex-hyperframes-video-guide.md)
 - [Codex 集成 Remotion 能做什么：用 React 生成自动化视频](./codex-remotion-video-guide.md)
+- [Claude 集成 Premiere Pro 做视频剪辑：从剪辑计划到自动化时间线](./claude-premiere-video-editing-guide.md)
 
 ### 4. 工作流
 
