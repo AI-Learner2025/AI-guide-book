@@ -36,6 +36,7 @@
 ### 5. App 开发
 
 - [用 Codex 多 Session 开发 App：把多个会话当成不同 Agent 来协作](./codex-multi-session-app-development-guide.md)
+- [The Agency：把 AI 编程变成一套专家团队工作流](./the-agency-ai-agent-team-guide.md)
 
 ### 6. 图片生成
 
