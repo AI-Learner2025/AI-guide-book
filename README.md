@@ -34,6 +34,7 @@
 - [AI 工具工作流：从一次性提问到可复用生产流程](./ai-tool-workflow-guide.md)
 - [Loop Engineering：让 AI 产出持续变好的循环工程](./loop-engineering-guide.md)
 - [5 个值得关注的 Vibe Coding 开源仓库：从入门到工作流搭建](./vibe-coding-open-source-repos-guide.md)
+- [熟练运用 Goal、Resume、Fork：把 Codex 长任务做稳](./codex-goal-resume-fork-guide.md)
 
 ### 5. App 开发
 

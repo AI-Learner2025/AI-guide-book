@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Goal Resume Fork Workflow</title>
+  <desc id="desc">A workflow diagram showing how Goal, Resume, and Fork help control long Codex tasks.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="55%" stop-color="#eef5ff"/>
+      <stop offset="100%" stop-color="#f7f2ff"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" x2="1">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#1e293b" flood-opacity="0.14"/>
+    </filter>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#64748b"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <circle cx="1020" cy="100" r="120" fill="#dbeafe" opacity="0.45"/>
+  <circle cx="180" cy="650" r="150" fill="#ede9fe" opacity="0.55"/>
+
+  <text x="80" y="86" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800" fill="#0f172a">Codex 长任务控制三件套</text>
+  <text x="80" y="132" font-family="Inter, Arial, sans-serif" font-size="22" fill="#475569">Goal 定目标，Resume 续上下文，Fork 分支探索</text>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="190" width="310" height="210" rx="22" fill="#ffffff"/>
+    <rect x="80" y="190" width="310" height="12" rx="6" fill="url(#blue)"/>
+    <circle cx="130" cy="255" r="28" fill="#dbeafe"/>
+    <text x="119" y="266" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#2563eb">1</text>
+    <text x="175" y="252" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#0f172a">/goal</text>
+    <text x="175" y="286" font-family="Inter, Arial, sans-serif" font-size="18" fill="#475569">把长任务钉住</text>
+    <text x="108" y="338" font-family="Inter, Arial, sans-serif" font-size="19" fill="#1e293b">明确目标、完成标准、</text>
+    <text x="108" y="370" font-family="Inter, Arial, sans-serif" font-size="19" fill="#1e293b">暂停/恢复/清除状态。</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="445" y="190" width="310" height="210" rx="22" fill="#ffffff"/>
+    <rect x="445" y="190" width="310" height="12" rx="6" fill="url(#green)"/>
+    <circle cx="495" cy="255" r="28" fill="#dcfce7"/>
+    <text x="484" y="266" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#0f766e">2</text>
+    <text x="540" y="252" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#0f172a">codex resume</text>
+    <text x="540" y="286" font-family="Inter, Arial, sans-serif" font-size="18" fill="#475569">接回过去的线程</text>
+    <text x="473" y="338" font-family="Inter, Arial, sans-serif" font-size="19" fill="#1e293b">保留 transcript、计划、</text>
+    <text x="473" y="370" font-family="Inter, Arial, sans-serif" font-size="19" fill="#1e293b">上下文和历史判断。</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="810" y="190" width="310" height="210" rx="22" fill="#ffffff"/>
+    <rect x="810" y="190" width="310" height="12" rx="6" fill="url(#violet)"/>
+    <circle cx="860" cy="255" r="28" fill="#ede9fe"/>
+    <text x="849" y="266" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#6d28d9">3</text>
+    <text x="905" y="252" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#0f172a">codex fork</text>
+    <text x="905" y="286" font-family="Inter, Arial, sans-serif" font-size="18" fill="#475569">分叉试另一条路</text>
+    <text x="838" y="338" font-family="Inter, Arial, sans-serif" font-size="19" fill="#1e293b">保留原线程，开新分支</text>
+    <text x="838" y="370" font-family="Inter, Arial, sans-serif" font-size="19" fill="#1e293b">探索方案或风险改造。</text>
+  </g>
+
+  <path d="M390 295 C415 295 420 295 445 295" stroke="#64748b" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+  <path d="M755 295 C780 295 785 295 810 295" stroke="#64748b" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="130" y="475" width="940" height="178" rx="26" fill="#ffffff"/>
+    <text x="180" y="530" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="800" fill="#0f172a">推荐使用节奏</text>
+    <text x="180" y="574" font-family="Inter, Arial, sans-serif" font-size="21" fill="#334155">先用 /goal 把任务目标固定住；中断后用 codex resume 回到原上下文。</text>
+    <text x="180" y="612" font-family="Inter, Arial, sans-serif" font-size="21" fill="#334155">遇到高风险方案时，用 codex fork 开新线程试验。</text>
+    <text x="180" y="642" font-family="Inter, Arial, sans-serif" font-size="19" fill="#64748b">最后回到主线程检查 diff、跑验证命令、提交并推送。</text>
+  </g>
+
+  <rect x="78" y="680" width="1044" height="2" fill="#cbd5e1"/>
+  <text x="80" y="716" font-family="Inter, Arial, sans-serif" font-size="17" fill="#64748b">适合：长任务、跨天开发、多方案探索、复杂博客、代码、视频和 PPT 工作流。</text>
+</svg>
