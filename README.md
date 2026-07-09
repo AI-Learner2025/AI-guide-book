@@ -13,7 +13,7 @@
 
 ### 1. 准备工作
 
-- 能够隐藏源ip并使用全新加密技术的魔法 https://hyperaicc.com/
+- 魔法 https://hyperaicc.com/
 - [通过 CC Switch 将 DeepSeek 等模型接入 Codex](./codex-cc-switch-deepseek.md)
 - [注册美区和土区 Google 邮箱的合规指南](./google-account-us-tr-region.md)
 
