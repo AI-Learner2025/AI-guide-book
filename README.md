@@ -41,6 +41,7 @@
 
 - [用 Codex 多 Session 开发 App：把多个会话当成不同 Agent 来协作](./codex-multi-session-app-development-guide.md)
 - [The Agency：把 AI 编程变成一套专家团队工作流](./the-agency-ai-agent-team-guide.md)
+- [Grok Build 入门：从安装到使用，再和 Codex、Claude Code 对比](./grok-build-install-use-comparison.md)
 
 ### 6. 图片生成
 
