@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+  <title id="title">HSBC HK app account opening flow</title>
+  <desc id="desc">A visual guide for applying through HSBC HK app and completing account opening without queuing.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f7"/>
+      <stop offset="50%" stop-color="#f8fbff"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#b91c1c"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.14"/>
+    </filter>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#64748b"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="780" fill="url(#bg)"/>
+  <circle cx="1058" cy="110" r="128" fill="#fee2e2" opacity="0.55"/>
+  <circle cx="130" cy="708" r="145" fill="#dbeafe" opacity="0.55"/>
+  <text x="72" y="80" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800" fill="#0f172a">HSBC HK App 申请香港账户</text>
+  <text x="72" y="124" font-family="Inter, Arial, sans-serif" font-size="21" fill="#475569">目标：先线上提交材料，能 App 激活就不去分行；必须到店时用预约/二维码避免现场排队。</text>
+  <g filter="url(#shadow)">
+    <rect x="72" y="174" width="235" height="170" rx="22" fill="#fff"/>
+    <rect x="72" y="174" width="235" height="12" rx="6" fill="url(#red)"/>
+    <text x="104" y="226" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800" fill="#0f172a">1. 准备材料</text>
+    <text x="104" y="268" font-family="Inter, Arial, sans-serif" font-size="18" fill="#334155">EEP / 护照 / HKID</text>
+    <text x="104" y="300" font-family="Inter, Arial, sans-serif" font-size="18" fill="#334155">手机号 / 地址 / 税务信息</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="350" y="174" width="235" height="170" rx="22" fill="#fff"/>
+    <rect x="350" y="174" width="235" height="12" rx="6" fill="url(#blue)"/>
+    <text x="382" y="226" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800" fill="#0f172a">2. App 提交</text>
+    <text x="382" y="268" font-family="Inter, Arial, sans-serif" font-size="18" fill="#334155">HSBC HK App</text>
+    <text x="382" y="300" font-family="Inter, Arial, sans-serif" font-size="18" fill="#334155">拍证件 / 自拍 / 填资料</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="628" y="174" width="235" height="170" rx="22" fill="#fff"/>
+    <rect x="628" y="174" width="235" height="12" rx="6" fill="url(#green)"/>
+    <text x="660" y="226" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800" fill="#0f172a">3. 等待审核</text>
+    <text x="660" y="268" font-family="Inter, Arial, sans-serif" font-size="18" fill="#334155">查 Application Tracker</text>
+    <text x="660" y="300" font-family="Inter, Arial, sans-serif" font-size="18" fill="#334155">按要求补材料</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="906" y="174" width="222" height="170" rx="22" fill="#fff"/>
+    <rect x="906" y="174" width="222" height="12" rx="6" fill="url(#red)"/>
+    <text x="938" y="226" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800" fill="#0f172a">4. 激活账户</text>
+    <text x="938" y="268" font-family="Inter, Arial, sans-serif" font-size="18" fill="#334155">App 激活优先</text>
+    <text x="938" y="300" font-family="Inter, Arial, sans-serif" font-size="18" fill="#334155">必要时预约到店</text>
+  </g>
+  <path d="M307 259 C327 259 330 259 350 259" stroke="#64748b" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+  <path d="M585 259 C605 259 608 259 628 259" stroke="#64748b" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+  <path d="M863 259 C883 259 886 259 906 259" stroke="#64748b" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+  <g filter="url(#shadow)">
+    <rect x="98" y="430" width="310" height="220" rx="22" fill="#fff"/>
+    <text x="132" y="486" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800" fill="#0f172a">路线 A：无需到店</text>
+    <text x="132" y="530" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">符合 App 开户条件</text>
+    <text x="132" y="562" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">提交后通过审核</text>
+    <text x="132" y="594" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">按提示在 App 内激活</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="445" y="430" width="310" height="220" rx="22" fill="#fff"/>
+    <text x="479" y="486" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800" fill="#0f172a">路线 B：到港不排队</text>
+    <text x="479" y="530" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">提前 eTicketing / 预约</text>
+    <text x="479" y="562" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">带原件和预约二维码</text>
+    <text x="479" y="594" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">按时到店核验</text>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="792" y="430" width="310" height="220" rx="22" fill="#fff"/>
+    <text x="826" y="486" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800" fill="#0f172a">开户后检查</text>
+    <text x="826" y="530" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">Debit card / ATM PIN</text>
+    <text x="826" y="562" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">FPS / 转账限额 / Global View</text>
+    <text x="826" y="594" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">TRB / 月费 / 风控通知</text>
+  </g>
+  <text x="72" y="714" font-family="Inter, Arial, sans-serif" font-size="18" fill="#64748b">关键边界：无需排队不等于无条件通过。是否免到店、是否需补材料，以 HSBC HK App 和银行审核结果为准。</text>
+</svg>
