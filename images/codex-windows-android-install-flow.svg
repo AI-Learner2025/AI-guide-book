@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Windows and Android install flow</title>
+  <desc id="desc">A visual guide for installing Codex on Windows and using Codex-related surfaces on Android.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="52%" stop-color="#eef6ff"/>
+      <stop offset="100%" stop-color="#f5f3ff"/>
+    </linearGradient>
+    <linearGradient id="win" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="android" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <linearGradient id="vpn" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#0f172a" flood-opacity="0.14"/>
+    </filter>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#64748b"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="780" fill="url(#bg)"/>
+  <circle cx="1050" cy="116" r="132" fill="#dbeafe" opacity="0.5"/>
+  <circle cx="130" cy="704" r="145" fill="#dcfce7" opacity="0.48"/>
+
+  <text x="72" y="82" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800" fill="#0f172a">Windows / Android 安装 Codex 路线图</text>
+  <text x="72" y="126" font-family="Inter, Arial, sans-serif" font-size="21" fill="#475569">Windows 可装桌面 App 或 CLI；Android 用官方 ChatGPT App、Codex Web 或远程连接。</text>
+
+  <g filter="url(#shadow)">
+    <rect x="74" y="180" width="330" height="220" rx="22" fill="#fff"/>
+    <rect x="74" y="180" width="330" height="12" rx="6" fill="url(#win)"/>
+    <text x="108" y="235" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#0f172a">Windows 桌面 App</text>
+    <text x="108" y="280" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">官方 Codex / ChatGPT 桌面端</text>
+    <text x="108" y="314" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">适合项目、插件、浏览器、文件预览</text>
+    <text x="108" y="350" font-family="Inter, Arial, sans-serif" font-size="17" fill="#64748b">入口：OpenAI Codex app / Microsoft Store</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="436" y="180" width="330" height="220" rx="22" fill="#fff"/>
+    <rect x="436" y="180" width="330" height="12" rx="6" fill="url(#win)"/>
+    <text x="470" y="235" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#0f172a">Windows CLI</text>
+    <text x="470" y="280" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">PowerShell 脚本 / npm / GitHub Release</text>
+    <text x="470" y="314" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">适合终端开发、脚本和 WSL2</text>
+    <text x="470" y="350" font-family="SFMono-Regular, Menlo, monospace" font-size="15" fill="#2563eb">npm install -g @openai/codex</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="798" y="180" width="330" height="220" rx="22" fill="#fff"/>
+    <rect x="798" y="180" width="330" height="12" rx="6" fill="url(#android)"/>
+    <text x="832" y="235" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="800" fill="#0f172a">Android 手机</text>
+    <text x="832" y="280" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">没有官方 Codex APK</text>
+    <text x="832" y="314" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">用 ChatGPT App / Web / 远程连接</text>
+    <text x="832" y="350" font-family="Inter, Arial, sans-serif" font-size="17" fill="#64748b">不要安装第三方“Codex APK”</text>
+  </g>
+
+  <path d="M404 290 C420 290 420 290 436 290" stroke="#64748b" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+  <path d="M766 290 C782 290 782 290 798 290" stroke="#64748b" stroke-width="4" fill="none" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="118" y="478" width="300" height="176" rx="22" fill="#fff"/>
+    <text x="152" y="532" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800" fill="#0f172a">推荐安装顺序</text>
+    <text x="152" y="576" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">1. 先装 Windows 桌面端</text>
+    <text x="152" y="608" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">2. 再装 CLI 或 IDE 插件</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="450" y="478" width="300" height="176" rx="22" fill="#fff"/>
+    <text x="484" y="532" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800" fill="#0f172a">手机使用方式</text>
+    <text x="484" y="576" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">1. 官方 ChatGPT Android</text>
+    <text x="484" y="608" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">2. 扫码配对远程主机</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="782" y="478" width="300" height="176" rx="22" fill="#fff"/>
+    <rect x="782" y="478" width="300" height="10" rx="5" fill="url(#vpn)"/>
+    <text x="816" y="532" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="800" fill="#0f172a">网络加速</text>
+    <text x="816" y="576" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">合法合规使用 VPN / 代理</text>
+    <text x="816" y="608" font-family="Inter, Arial, sans-serif" font-size="19" fill="#334155">优先稳定节点和官方域名</text>
+  </g>
+
+  <text x="72" y="720" font-family="Inter, Arial, sans-serif" font-size="18" fill="#64748b">安全原则：只用 OpenAI、Microsoft Store、Google Play、GitHub openai/codex、npm 官方包；不要下载来路不明的 APK 或 EXE。</text>
+</svg>
