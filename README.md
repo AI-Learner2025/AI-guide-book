@@ -18,7 +18,6 @@
 - [注册美区和土区 Google 邮箱的合规指南](./google-account-us-tr-region.md)
 - [新加坡银行卡开户攻略：从材料准备到银行选择](./singapore-bank-account-opening-guide.md)
 - [HSBC HK App 申请香港银行卡攻略：先线上提交，再到香港不排队开户](./hsbc-hk-app-account-opening-guide.md)
-- claude android app
 - [Windows 和 Android 安装 Codex 教程：官方入口、开源包和 VPN 加速](./codex-windows-android-install-guide.md)
 
 ### 2. Skills
