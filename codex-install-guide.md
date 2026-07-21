@@ -10,7 +10,7 @@ Codex 已经集成到新版 ChatGPT 桌面应用中，支持 macOS 和 Windows�
 
 下载和登录前，先连接稳定、合法合规的系统级 VPN/代理。仅使用浏览器代理，可能导致应用无法登录或更新。
 
-推荐使用：[Hype AI CC](https://hypeaicc.com/)
+https://hyperaicc.com/
 
 ### 2. 下载
 
