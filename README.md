@@ -20,7 +20,6 @@
 - [HSBC HK App 申请香港银行卡攻略：先线上提交，再到香港不排队开户](./hsbc-hk-app-account-opening-guide.md)
 - [Claude Android App 安装教程：官方应用、APK 镜像和 Claude Code 方案](./claude-android-app-install-guide.md)
 - [Codex 安装教程：官方与社区下载入口](./codex-install-guide.md)
-- [Windows 和 Android 安装 Codex 教程：官方入口、开源包和 VPN 加速](./codex-windows-android-install-guide.md)
 
 ### 2. Skills
 
