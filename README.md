@@ -19,7 +19,7 @@
 - [新加坡银行卡开户攻略：从材料准备到银行选择](./singapore-bank-account-opening-guide.md)
 - [HSBC HK App 申请香港银行卡攻略：先线上提交，再到香港不排队开户](./hsbc-hk-app-account-opening-guide.md)
 - [Claude Android App 安装教程：官方应用、APK 镜像和 Claude Code 方案](./claude-android-app-install-guide.md)
-- [Codex 安装教程：先连接梯子，再下载官方客户端](./codex-install-guide.md)
+- [Codex 安装教程：先连接梯子，再下载](./codex-install-guide.md)
 - [Windows 和 Android 安装 Codex 教程：官方入口、开源包和 VPN 加速](./codex-windows-android-install-guide.md)
 
 ### 2. Skills
