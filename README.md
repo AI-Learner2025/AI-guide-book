@@ -21,6 +21,7 @@
 - [Claude Android App 安装教程：官方应用、APK 镜像和 Claude Code 方案](./claude-android-app-install-guide.md)
 - [Codex 安装教程：官方与社区下载入口](./codex-install-guide.md)
 - [Grok Build 安装教程：macOS、Windows 和 Linux](./grok-build-install-guide.md)
+- [Cloudflare 免费 VPN 教程：WARP 与 Zero Trust 私网接入](./cloudflare-free-vpn-warp-zero-trust-guide.md)
 
 ### 2. Skills
 
