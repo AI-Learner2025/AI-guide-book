@@ -20,6 +20,7 @@
 - [HSBC HK App 申请香港银行卡攻略：先线上提交，再到香港不排队开户](./hsbc-hk-app-account-opening-guide.md)
 - [Claude Android App 安装教程：官方应用、APK 镜像和 Claude Code 方案](./claude-android-app-install-guide.md)
 - [Codex 安装教程：官方与社区下载入口](./codex-install-guide.md)
+- [Windows 一键安装 Codex：下载脚本并完成安装](./codex-windows-one-click-installer-guide.md)
 - [Grok Build 安装教程：macOS、Windows 和 Linux](./grok-build-install-guide.md)
 - [Cloudflare 免费 VPN 教程：WARP 与 Zero Trust 私网接入](./cloudflare-free-vpn-warp-zero-trust-guide.md)
 
