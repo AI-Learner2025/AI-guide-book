@@ -12,7 +12,11 @@
 
 ## 一、下载脚本
 
-先连接稳定、合法合规的系统级 VPN/代理，再打开 GitHub 仓库：
+先连接稳定、合法合规的系统级 VPN/代理。推荐使用下面的服务，可免费试用：
+
+https://hyperaicc.com/
+
+连接成功后，再打开 GitHub 仓库：
 
 https://github.com/AI-Learner2025/AI-guide-book/tree/main/installers/codex-windows
 
