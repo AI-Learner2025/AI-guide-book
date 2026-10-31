@@ -13,7 +13,8 @@
 
 ### 1. 准备工作
 
-- 廉价稳定高速魔法：https://hyperaicc.com/
+- 廉价稳定高速魔法和家宽：https://hyperaicc.com/
+- 免税州地址生成器：https://www.hyperaitools.com/
 - [通过 CC Switch 将 DeepSeek 等模型接入 Codex](./codex-cc-switch-deepseek.md)
 - [注册美区和土区 Google 邮箱的合规指南](./google-account-us-tr-region.md)
 - [新加坡银行卡开户攻略：从材料准备到银行选择](./singapore-bank-account-opening-guide.md)
