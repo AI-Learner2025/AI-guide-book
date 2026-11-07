@@ -1,4 +1,4 @@
-# AI-guide-book
+## AI-guide-book
 
 这是一个面向 AI 工具学习者与实践者的指南项目，旨在帮助大家更高效、更清晰地理解和使用各类 AI 工具。
 
@@ -26,7 +26,7 @@
 - [Codex 安装教程：官方与社区下载入口](./codex-install-guide.md)
 - [Windows 一键安装 Codex：下载脚本并完成安装](./codex-windows-one-click-installer-guide.md)
 - [Grok Build 安装教程：macOS、Windows 和 Linux](./grok-build-install-guide.md)
-- [Cloudflare 免费 VPN 教程：WARP 与 Zero Trust 私网接入](./cloudflare-free-vpn-warp-zero-trust-guide.md)
+
 
 ### 2. Skills
 
