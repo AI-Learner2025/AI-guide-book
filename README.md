@@ -22,6 +22,7 @@
 - [HSBC 香港开户攻略：先 App 申请，再按要求到港激活](./hsbc-hk-app-account-opening-guide.md)
 - [Claude Android App 安装教程：官方应用、APK 镜像和 Claude Code 方案](./claude-android-app-install-guide.md)
 - [Claude 风控：稳定家宽 IP 与支付方式为什么重要](./claude-account-risk-ip-payment-guide.md)
+- [Claude 防封指南：四点使用建议](./claude-account-safety-guide.md)
 - [Codex 安装教程：官方与社区下载入口](./codex-install-guide.md)
 - [Windows 一键安装 Codex：下载脚本并完成安装](./codex-windows-one-click-installer-guide.md)
 - [Grok Build 安装教程：macOS、Windows 和 Linux](./grok-build-install-guide.md)
