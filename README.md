@@ -21,41 +21,45 @@
 - [港版 iPhone + 美国 eSIM：低成本保号指南](./hong-kong-iphone-us-esim-guide.md)
 - [新加坡银行卡开户攻略：材料与办理步骤](./singapore-bank-account-opening-guide.md)
 - [HSBC 香港开户攻略：先 App 申请，再按要求到港激活](./hsbc-hk-app-account-opening-guide.md)
-- [Claude Android App 安装教程：官方应用、APK 镜像和 Claude Code 方案](./claude-android-app-install-guide.md)
-- [Claude 风控：稳定家宽 IP 与支付方式为什么重要](./claude-account-risk-ip-payment-guide.md)
-- [Claude 防封指南：四点使用建议](./claude-account-safety-guide.md)
 - [Codex 安装教程：官方与社区下载入口](./codex-install-guide.md)
 - [Windows 一键安装 Codex：下载脚本并完成安装](./codex-windows-one-click-installer-guide.md)
 - [Grok Build 安装教程：macOS、Windows 和 Linux](./grok-build-install-guide.md)
 
 
-### 2. Skills
+### 2. Claude 专题
 
+- [Claude Android App 安装教程：官方应用、APK 镜像和 Claude Code 方案](./claude-android-app-install-guide.md)
+- [Claude 网络设置：优先使用 TUN，减少流量绕过代理](./claude-tun-proxy-guide.md)
+- [Claude 风控：稳定家宽 IP 与支付方式为什么重要](./claude-account-risk-ip-payment-guide.md)
+- [Claude 防封指南：四点使用建议](./claude-account-safety-guide.md)
 - [Claude Code 必装 Skills：安装与使用指南](./claude-code-skills-install-use.md)
+- [Claude 集成 Premiere Pro 做视频剪辑：从剪辑计划到自动化时间线](./claude-premiere-video-editing-guide.md)
+
+### 3. Skills
+
 - [Codex 必装 Skills：安装与使用指南](./codex-skills-install-use.md)
 - [Codex Record & Replay：把重复操作录制成可复用 Skill](./codex-record-replay-skill-guide.md)
 - [生成 PPT 的 Skill：用 AI 做出可编辑的 PowerPoint](./ppt-generation-skill-guide.md)
 
-### 3. 视频生成
+### 4. 视频生成
 
 - [使用 Codex + HyperFrames 制作视频：从提示词到 MP4](./codex-hyperframes-video-guide.md)
 - [Codex 集成 Remotion 能做什么：用 React 生成自动化视频](./codex-remotion-video-guide.md)
-- [Claude 集成 Premiere Pro 做视频剪辑：从剪辑计划到自动化时间线](./claude-premiere-video-editing-guide.md)
 
-### 4. 工作流
+### 5. 工作流
 
 - [AI 工具工作流：从一次性提问到可复用生产流程](./ai-tool-workflow-guide.md)
 - [Loop Engineering：让 AI 产出持续变好的循环工程](./loop-engineering-guide.md)
 - [5 个值得关注的 Vibe Coding 开源仓库：从入门到工作流搭建](./vibe-coding-open-source-repos-guide.md)
 - [熟练运用 Goal、Resume、Fork：把 Codex 长任务做稳](./codex-goal-resume-fork-guide.md)
 
-### 5. App 开发
+### 6. App 开发
 
 - [用 Codex 多 Session 开发 App：把多个会话当成不同 Agent 来协作](./codex-multi-session-app-development-guide.md)
 - [The Agency：把 AI 编程变成一套专家团队工作流](./the-agency-ai-agent-team-guide.md)
 - [Grok Build 入门：从安装到使用，再和 Codex、Claude Code 对比](./grok-build-install-use-comparison.md)
 
-### 6. 图片生成
+### 7. 图片生成
 
 - [教程海报生成工作流：批量生成 AI 工具教程图片](./tutorial-poster-generation-workflow.md)
 
