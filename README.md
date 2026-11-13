@@ -18,6 +18,7 @@
 - [通过 CC Switch 将 DeepSeek 等模型接入 Codex](./codex-cc-switch-deepseek.md)
 - [注册美区和土区 Google 邮箱的合规指南](./google-account-us-tr-region.md)
 - [支付宝购买苹果礼品卡并充值 Apple ID](./alipay-apple-gift-card-guide.md)
+- [港版 iPhone + 美国 eSIM：低成本保号指南](./hong-kong-iphone-us-esim-guide.md)
 - [新加坡银行卡开户攻略：材料与办理步骤](./singapore-bank-account-opening-guide.md)
 - [HSBC 香港开户攻略：先 App 申请，再按要求到港激活](./hsbc-hk-app-account-opening-guide.md)
 - [Claude Android App 安装教程：官方应用、APK 镜像和 Claude Code 方案](./claude-android-app-install-guide.md)
